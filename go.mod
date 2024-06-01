@@ -1,8 +1,9 @@
-module github.com/abyssparanoia/go-gmo
+module github.com/snuffy/go-gmo
 
 go 1.22.3
 
 require (
+	github.com/abyssparanoia/go-gmo v0.17.2
 	github.com/bxcodec/faker v2.0.1+incompatible
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/cenkalti/backoff v2.2.1+incompatible
